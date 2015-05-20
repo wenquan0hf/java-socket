@@ -1,0 +1,7 @@
+{
+    "name": "Java TCP/IP Socket 编程",
+    "introduction": "Java TCP/IP Socket 是基于 TCP/IP 协议的网络通信技术。",
+    "title": "Java TCP/IP Socket 编程 - 极客学院 Wiki",
+    "keywords": "TCP,UDP,Socket",
+    "description": "Java TCP/IP Socket 是基于 TCP/IP 协议的网络通信技术，旨在帮助开发人员实现服务器与客户端的通信。"
+}
